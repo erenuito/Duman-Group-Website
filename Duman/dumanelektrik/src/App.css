@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'Coolvetica';
+  src: url('./assets/fonts/coolvetica rg_74e8090722bb89f0ac5848a8f53621c3.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.main-container {
+  padding: 60px 80px;
+  font-family: 'Coolvetica', sans-serif;
+  background-color: white;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 60px;
+}
+
+.left-side, .right-side {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.brand-title {
+  font-size: 72px;
+  font-weight: 300;
+  color: #111;
+  margin-bottom: 20px;
+}
+
+.slogan {
+  font-size: 36x;
+  font-style: italic;
+  font-weight: 300;
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 47px;
+  text-align: left;
+  margin-top: 75px;
+}
+
+.desc-text {
+  font-size: 16px;
+  color: #777;
+  line-height: 1.6;
+}
+
+.box-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.home-box {
+  flex: 1;
+  aspect-ratio: 1 / 1;       /* Kare yapar */
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  height: 450px;
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 28px;
+  border-width: 2px;
+  border-style:groove;
+  border-color: black;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.home-box:hover {
+  background-color: #a7a7a7;
+}
