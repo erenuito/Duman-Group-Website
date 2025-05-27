@@ -21,9 +21,8 @@ _A demo will be available once the project is deployed._
 ---
 
 ## 🖼️ Website Preview
-Login Page
 
-![Website Preview](![WhatsApp Görsel 2025-05-26 saat 04 14 43_79c4b5b5](https://github.com/user-attachments/assets/6153e02b-e816-4659-bbfb-ccff07a633a5)
+![Home Page](![WhatsApp Görsel 2025-05-26 saat 04 14 43_79c4b5b5](https://github.com/user-attachments/assets/6153e02b-e816-4659-bbfb-ccff07a633a5)
 )
 ---
 
