@@ -54,21 +54,32 @@ npm start
 ```
 Open http://localhost:3000 to view it in the browser.
 
-🧑‍💻 Developer
-Cemal Eren Karagül
-GitHub: erenuito
+## 🧑‍💻 Developer
 
-📫 Contact Information
+**Cemal Eren Karagül**  
+GitHub: [erenuito](https://github.com/erenuito)
 
-Email: info@dumanelektrik.com
-Phone: +90 212 XXX XX XX
-Location: Silivri, Istanbul, Turkey
+---
 
-📃 License
-This project is licensed under the MIT License.
+## 📫 Contact Information
 
-📌 Acknowledgments
-This design was fully implemented based on client requests. All layout and content structure reflect their specific needs and preferences.
+- **Email:** info@dumanelektrik.com  
+- **Phone:** +90 212 XXX XX XX  
+- **Location:** Silivri, Istanbul, Turkey
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📌 Acknowledgments
+
+This design was fully implemented based on client requests.  
+All layout and content structure reflect their specific needs and preferences.
+
 
 
 ---
