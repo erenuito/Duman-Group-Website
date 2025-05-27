@@ -22,7 +22,7 @@ _A demo will be available once the project is deployed._
 
 ## 🖼️ Website Preview
 
-Home Page(![WhatsApp Görsel 2025-05-26 saat 04 14 43_79c4b5b5](https://github.com/user-attachments/assets/6153e02b-e816-4659-bbfb-ccff07a633a5)
+Home Page![WhatsApp Görsel 2025-05-26 saat 04 14 43_79c4b5b5](https://github.com/user-attachments/assets/6153e02b-e816-4659-bbfb-ccff07a633a5)
 
 ---
 
@@ -59,10 +59,9 @@ Cemal Eren Karagül
 GitHub: erenuito
 
 📫 Contact Information
+
 Email: info@dumanelektrik.com
-
 Phone: +90 212 XXX XX XX
-
 Location: Silivri, Istanbul, Turkey
 
 📃 License
