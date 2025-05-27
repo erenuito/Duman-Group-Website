@@ -63,9 +63,8 @@ GitHub: [erenuito](https://github.com/erenuito)
 
 ## 📫 Contact Information
 
-- **Email:** info@dumanelektrik.com  
-- **Phone:** +90 212 XXX XX XX  
-- **Location:** Silivri, Istanbul, Turkey
+- **Email:** erenk958@gmail.com  
+- **Instagram:** erennkaragul
 
 ---
 
