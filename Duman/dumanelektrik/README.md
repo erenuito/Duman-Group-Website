@@ -5,8 +5,6 @@ This project is the official website for **Duman Elektrik Mühendislik ve Mimarl
 > ⚠️ **Note:** This project is currently under development.  
 > 🎨 **Disclaimer:** The design was prepared according to client requirements and is **not my original design**.
 
-![Duman Elektrik Logo](https://github.com/user-attachments/assets/427fac19-6bb8-42dc-b79d-4f78639f1f48)
-
 ---
 
 ## 🚧 Project Status
@@ -23,32 +21,10 @@ _A demo will be available once the project is deployed._
 ---
 
 ## 🖼️ Website Preview
+Login Page
 
-![Website Preview](https://github.com/erenuito/Duman-Group-Website/assets/4acd0194-f785-40cd-bbe2-49b00717576a.jpg)
-
----
-
-## 📦 Project Structure
-
-Duman/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── Header.js
-│ │ ├── ServiceCard.js
-│ │ └── Footer.js
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── Elektrik.js
-│ │ ├── Muhendislik.js
-│ │ └── Mimarlik.js
-│ ├── App.js
-│ └── App.css
-├── package.json
-└── README.md
-
-
+![Website Preview](![WhatsApp Görsel 2025-05-26 saat 04 14 43_79c4b5b5](https://github.com/user-attachments/assets/6153e02b-e816-4659-bbfb-ccff07a633a5)
+)
 ---
 
 ## 🧰 Technologies Used
