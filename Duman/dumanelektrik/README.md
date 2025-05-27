@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+# Duman Elektrik Mühendislik ve Mimarlık - Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the official website for **Duman Elektrik Mühendislik ve Mimarlık**, a company founded by Esat Karaduman in 2000 in Silivri, Istanbul. The company has been providing services in electrical installation, engineering, and architecture for over 25 years.
 
-## Available Scripts
+> ⚠️ **Note:** This project is currently under development.  
+> 🎨 **Disclaimer:** The design was prepared according to client requirements and is **not my original design**.
 
-In the project directory, you can run:
+![Duman Elektrik Logo](https://github.com/user-attachments/assets/427fac19-6bb8-42dc-b79d-4f78639f1f48)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚧 Project Status
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔧 **In Progress**  
+The core layout and main components have been implemented. Work is ongoing on responsive design, routing, animations, and additional pages.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌐 Live Preview
 
-### `npm run build`
+_A demo will be available once the project is deployed._
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖼️ Website Preview
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Website Preview](https://github.com/erenuito/Duman-Group-Website/assets/4acd0194-f785-40cd-bbe2-49b00717576a.jpg)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📦 Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Duman/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── Header.js
+│ │ ├── ServiceCard.js
+│ │ └── Footer.js
+│ ├── pages/
+│ │ ├── Home.js
+│ │ ├── Elektrik.js
+│ │ ├── Muhendislik.js
+│ │ └── Mimarlik.js
+│ ├── App.js
+│ └── App.css
+├── package.json
+└── README.md
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🧰 Technologies Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **React.js** – Frontend library
+- **React Router DOM** – Client-side routing
+- **CSS Modules / Tailwind (planned)** – Styling and layout
+- **Framer Motion (planned)** – Animations
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## ⚙️ Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To run this project locally:
 
-### Analyzing the Bundle Size
+```bash
+# Clone the repository
+git clone https://github.com/erenuito/Duman-Group-Website.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Navigate into the project directory
+cd Duman-Group-Website/Duman/dumanelektrik
 
-### Making a Progressive Web App
+# Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Start the development server
+npm start
 
-### Advanced Configuration
+🧑‍💻 Developer
+Cemal Eren Karagül
+GitHub: erenuito
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+📫 Contact Information
+Email: info@dumanelektrik.com
 
-### Deployment
+Phone: +90 212 XXX XX XX
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Location: Silivri, Istanbul, Turkey
 
-### `npm run build` fails to minify
+📃 License
+This project is licensed under the MIT License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📌 Acknowledgments
+This design was fully implemented based on client requests. All layout and content structure reflect their specific needs and preferences.
+
+
+---
+
+Let me know if you want the actual `.md` file or need help integrating this into your GitHub repo.
+
